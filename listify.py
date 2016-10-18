@@ -52,7 +52,10 @@ def parse_file(lines,tree,depth=0):
 def listify(filepath):
     listf=etree.Element('list')
     listf.attrib['list-type']='simple'
-    content=open(filepath,'r').readlines() #Read lines to a list
+    content = []
+    with open(filepath,'r') as f:
+        for line in f:
+            content.append(re.sub(r'^<p>(\t*)(.+)</p>$', r'\1<p>\2</p>', line.rstrip())) # move tabs to start of line and get rid of trailling emty chars.
     e=etree.SubElement(listf,'list-item') #Create element for the first item
     e.text=content[0]
     parse_file(content[1:],listf)
