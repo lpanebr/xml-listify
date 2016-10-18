@@ -14,11 +14,17 @@ except ImportError:
     except ImportError:
         print("No LXML") 
 # original code modified from: http://stackoverflow.com/a/12164449/372722
+dots = None
 def main() :
+    global dots
     parser = argparse.ArgumentParser(description='Transforma lista identada por tabs em lista XML.')
     parser.add_argument('-filename',help='Caminho para o arquivo que contém apenas a lista.', required=True)
+    parser.add_argument('-dots', nargs='?', const=0, help='Normaliza a quantidade de pontos. Omita para ou use 0 (zero) para preservar original.')
     args = parser.parse_args()
     filename = args.filename
+    dots = args.dots
+    if dots is None:
+        dots = 0
     listify(filename)
 def parse_file(lines,tree,depth=0):
     if(len(lines)<=0): #We are done here
@@ -50,12 +56,25 @@ def parse_file(lines,tree,depth=0):
         e.text=lines[0]
         parse_file(lines[1:],e,depth) #Recursive call
 def listify(filepath):
+    global dots
     listf=etree.Element('list')
     listf.attrib['list-type']='simple'
     content = []
     with open(filepath,'r') as f:
         for line in f:
-            content.append(re.sub(r'^<p>(\t*)(.+)</p>$', r'\1<p>\2</p>', line.rstrip())) # move tabs to start of line and get rid of trailling emty chars.
+            # fix: trailling emty chars.
+            line = line.rstrip()
+            # fix: …
+            line = re.sub(r'…', r'...', line)
+            # fix: <italic>... 
+            line = re.sub(r'(\.*)<italic>(\.+) *', r'\1\2<italic>', line)
+            # Normalize dots
+            if dots > 0:
+                dots = int(dots)
+                line = re.sub(r'\.{2,}', '.'*dots, line)
+            # move tabs to start of line and get
+            line = re.sub(r'^<p>(\t*)(.+)</p>$', r'\1<p>\2</p>', line)
+            content.append(line) 
     e=etree.SubElement(listf,'list-item') #Create element for the first item
     e.text=content[0]
     parse_file(content[1:],listf)
