@@ -1,0 +1,18 @@
+<p>1. Presence of tector trichomes only; extrafloral nectaries present; leaves with 2–21 pairs of leaflets; inflorescences axillary, supra- axillary or reduced to only flower.</p>
+<p>	2. Leaves with 2–8 pairs of leaflets; inflorescences axillary, reduced to a single flower.</p>
+<p>		3. Leaves with two pairs of leaflets, venation paralelinervous; sepals multistriated ………………................................................................................7. <italic>Chamaecrista ramosa</italic> var. <italic>ramosa</italic></p>
+<p>		3'. Leaves with 4–8 pairs of leaflets, venation palminerveous; sepals striated.</p>
+<p>			4. Branches quadrangular, fractiflex; stipules acuminate to aristated; leaflets with cuspidate to spinescent apex........................................................................................................9. <italic>C. swainsonii</italic></p>
+<p>			4’. Branches cylindrical, erect; stipules lanceolate to deltoid; leaflets with acuminate to cuspidate apex.......................................................................................................................10. <italic>C. tenuisepala</italic></p>
+<p>	2’. Leaves with 8–21 pairs of leaflets; inflorescences supra-axillary.</p>
+<p>		5. Extrafloral nectary sessile to shortly stipitate, discoid to caliciform, head less dilated the stipe, located little above the middle of the petiole; midrib excentric, dividing the leaflet in a ratio of 1:2–2.5 at the base.......................................................................................................8. <italic>C. repens</italic> var. <italic>multijuga</italic></p>
+<p>		5’. Extrafloral nectary shortly stipitate, caliciform, head more dialated than the stipe, located next to the middle of the petiole; midrib little excentric dividing the leaflet in a ratio of 1:1–1.5 at the base …………………………………………………………...6. <italic>C. nictitans</italic> subsp. <italic>disadena</italic> var. <italic>disadena</italic></p>
+<p>1'. Presence of tector and glandular trichomes; extrafloral nectaries absent; leaves with two pairs of leaflets; inflorescence terminal.</p>
+<p>	6. Herbs procumbent to sarmentose; petiole c. 1.5 times longer than the rachis; flower buds acute………… ...................................................................................................................................................5. <italic>C. carobinha</italic></p>
+<p>	6'. Shrubs to subshrubs erect or herbs to subshrubs procumbent; petiole c. 1.5–7 times longer than the rachis; flower buds rounded.</p>
+<p>		7. Petiole c. 7 times longer than the rachis; leaflets glabrous.</p>
+<p>			8. Epidermis on the young branches pale to whitish; leaflets ovate to suborbicular, 9–35 mm long.; flowers c. 3 cm. diam. ........................................................ 4. <italic>C. brevicalyx</italic> var. <italic>brevicalyx</italic></p>
+<p>			8'. Epidermis on the young branches green; leaflets ovate to obovate, 4–11 mm long.; flowers c. 1 cm diam. ………………….…………………….………...................................... 2. <italic>C. amiciella</italic></p>
+<p>		7’. Petiole 1.5–5 longer than the rachis; leaflets glabrous to pilose.</p>
+<p>			9. Leaflets ovate to obovate, apex emarginate to rounded; petiole c. 1.5 times longer than the rachis ………...………............................................................................. 3. <italic>C. belemii</italic> var. <italic>belemii</italic></p>
+<p>			9'. Leaflets elliptic to obelliptic, apex acute to emarginate; petiole c. 3–5 times longer than the rachis. …………….................................................................................................1. <italic>C. acosmifolia</italic></p>

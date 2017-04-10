@@ -1,0 +1,30 @@
+<p>1. Epicalyx present.</p>
+<p>	2. Epicalyx with 3 bracteoles. Free portion of the stamens concentrated at the apex of the staminal tube. Styles in equal number of carpels. Mericarps 3–awned............................. <bold>3. <italic>Malvastrum tomentosum</italic></bold></p>
+<p>	2’. Epicalyx with more than 3 bracteoles. Free portion of the stamens distributed along of the staminal tube. Styles in double the number of carpels. Mericarps muticous to rostrate.</p>
+<p>		3. Epicalyx with 20-22 bracteoles. Mericarps winged laterally ………………................... <bold>4. <italic>Pavonia blanchetiana</italic></bold></p>
+<p>		3’. Epicalyx with 12-14 bracteoles. Mericarps not winged.</p>
+<p>			4. Bracteoles filiforms, green. Petals yellow with vinaceous basal spot ....................................................................................................................... <bold>5. <italic>Pavonia cancellata</italic></bold></p>
+<p>			4’. Bracteoles linear-lanceolate, green at the basal portion, pink at the apical portion, sometimes entirely pink. Petals pink............................................................................. <bold>6. <italic>Pavonia glazioviana</italic></bold></p>
+<p>1’. Epicalyx absent.</p>
+<p>	5. Schizocarp inflated.</p>
+<p>		6. Branches with trichomes stellate. Petals 5-8 mm long. Stamens c. 30. Mericarps 10, with trichomes simple........................................................................................... <bold>1. <italic>Herissantia crispa</italic></bold></p>
+<p>		6’. Branches with glandular trichomes predominantly, simple sparse trichomes. Petals 18-20 mm long. Stamens c. 50. Mericarps 12-17, with trichomes stellate.................. <bold>2. <italic>Herissantia tiubae</italic></bold></p>
+<p>	5’. Schizocarp not inflated.</p>
+<p>		7. Schizocarp with three seeds per mericarp....................... <bold>7. <italic>Pseudabutilon virgatum</italic></bold></p>
+<p>		7’. Schizocarp with one seed per mericarp.</p>
+<p>			8. Calyx with prominent venation.</p>
+<p>				9. Leaf with blade linear to narrow elliptic.</p>
+<p>					10. Leaf with margin serrate. Petals yellow-orange with reddish base. Mericarps long biaristate ........................................................................................... <bold>8. <italic>Sida angustissima</italic></bold></p>
+<p>					10’. Leaf with margin entire. Petals white with vinaceous basal spot. Mericarps muticous ................................................................................ <bold>12. <italic>Sida linifolia</italic></bold></p>
+<p>				9’. Leaf with blade ovate to elliptic.</p>
+<p>						11. Subshrubs not prostrate. Mericarps not muricate, biaristate, with white simple trichomes, only in the aristas. Seeds glabrous.</p>
+<p>							12. Petiole with a purple spine. Petals white with yellow basal spot. Mericarps 5.......................................................................................................... <bold>13. <italic>Sida spinosa</italic></bold></p>
+<p>							12’. Petiole without spine. Petals yellow-orange with reddish-vinaceous basal spot. Mericarps more than 5.</p>
+<p>								13. Branches and leaves velutinous; blade with base cordate. Inflorescences glomeruliforms dense. Mericarps c. 5 mm long, biaristate, arista parallel between them......................................................................... <bold>10. <italic>Sida cordifolia</italic></bold></p>
+<p>								13’. Branches hirsute and leaves pubescents; blade with base obtuse to subcordate. Flowers solitary. Mericarps c. 3 mm long, biaristate, arista divergent............................................................................. <bold>11. <italic>Sida galheirensis</italic></bold></p>
+<p>						11’. Subshrubs prostrate. Mericarps muricate, not aristate, with brown stellate trichomes, on the mericarp. Seeds pilose................................. <bold>9. <italic>Sida castanocarpa</italic></bold></p>
+<p>			8’. Calyx without prominent venation.</p>
+<p>				14. Petals yellow, more than 5 mm long. Mericarps 10.. <bold>15. <italic>Sidastrum multiflorum</italic></bold></p>
+<p>				14’. Petals vinaceous or yellow with pink basal spot, 4-5 mm long. Mericarps 5.</p>
+<p>					15. Inflorescences glomeruliform; flowers subsessiles or pedicels 0.5-1.5 mm long; petals yellow with pink basal spot............ <bold>14. <italic>Sidastrum micranthum</italic></bold></p>
+<p>					15’. Inflorescences paniculate, flowers pedicellate 1.5-2 cm long; petals vinaceous.......................................................... <bold>16. <italic>Sidastrum paniculatum</italic></bold></p>
